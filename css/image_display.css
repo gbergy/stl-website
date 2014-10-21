@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+.image_display {
+	height: auto;
+	width: 900px;
+	padding-bottom: 25px;
+	float: left;
+}
+
+.image {
+	float: left;
+	height: 700px;
+	width: 700px;
+	text-align: center;
+}
+
+.image_nav {
+	height: 25px;
+	width: 175px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.image_nav_arrow_left {
+	float: left;
+	height: 25px;
+	width: 25px;
+	text-align: center;
+	font-size: 12px;
+	line-height: 24px;
+}
+
+.image_nav_arrow_right {
+	float: left;
+	height: 25px;
+	width: 25px;
+	text-align: center;
+	font-size: 12px;
+	line-height: 24px;
+}
+.image_nav_page_number {
+	float: left;
+	height: 25px;
+	width: 80px;
+	text-align: center;
+	font-size: 12px;
+	line-height: 24px;
+}
+.image_info {
+	float: left;
+	height: auto;
+	width: 175px;
+	padding-left: 25px;
+}
+
+.image_discription {
+	float: left;
+	height: auto;
+	width: 175px;
+	padding-top: 25px;
+}

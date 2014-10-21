@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+.exhibitions_list_container {
+	width: 850px;
+	height: auto;
+	padding-bottom: 25px;
+	float: left;
+}
+
+.exhibitions_list {
+	height: auto;
+	width: 900px;
+	padding-left: 50px;
+	padding-top: 167px;
+}
+
+.exhibitions_list_thumb {
+	float: left;
+	height: auto;
+	width: 200px;
+	border: 0px;
+}
+
+.exhibitions_list_status {
+	height: auto;
+	width: 900px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	float: left;
+}
+.exhibitions_list_status_text {
+	font-size: 16px;
+	color: #000000;
+	line-height: 26px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.exhibitions_list_text {
+	height: 125px;
+	width: 600px;
+	float: left;
+	padding-left: 25px;
+}

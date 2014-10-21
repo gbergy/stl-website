@@ -1,0 +1,163 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/exhibition-master.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<link rel="shortcut icon" href="../images/logo/shoot_the_lobster.ico" type="image/x-icon">
+<link rel="icon" href="../images/logo/shoot_the_lobster.ico" type="image/x-icon">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>SHOOT THE LOBSTER | Miami Exhibition</title>
+<!-- InstanceEndEditable -->
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+-->
+</style>
+<link href="../css/main.css" rel="stylesheet" type="text/css" />
+<link href="../css/exhibitions.css" rel="stylesheet" type="text/css" />
+<link href="../css/image_display.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<!-- InstanceBeginEditable name="head" --><!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable --><!-- TemplateParam name="Optional Image Dispaly " type="boolean" value="true" --><!-- InstanceEndEditable -->
+<script type="text/javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-30451631-1']);
+ _gaq.push(['_trackPageview']);
+ (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21835600-10']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>
+</head>
+
+<body onload="MM_preloadImages('../images/logo/shoot_the_lobster.png')">
+<div class="background">
+  <div class="header">
+    <div class="logo"><a href="../index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('shoot_the_lobster_logo','','../images/logo/shoot_the_lobster.png',1)"><img src="../images/logo/shoot_the_lobster.png" name="shoot_the_lobster_logo" width="340" height="76" border="0" id="shoot_the_lobster_logo" /></a></div>
+<div class="nav_bar">
+        <ul id="nav">
+          <li><a href="../collaborations.html" class="nav">Collaborations</a> </li>
+          <li><a href="../exhibitions.html" class="nav_on">Exhibitions</a></li>
+          <li><a href="../news.html" class="nav">News</a></li>
+          <li><a href="../info.html" class="nav">Info</a> </li>
+      </ul>
+    </div>
+  </div>
+    <div class="exhibitions_container"><!-- InstanceBeginEditable name="Exhibitions Display" -->
+      <div class="exhibitions_display">
+        <div class="exhibition_title" ><a href="../exhibitions/miami/_miami.html" class="name">Miami - 70 NW 20 Street<br />
+Ryan Foerster</a><br />
+        <a href="../exhibitions/miami/_miami.html" class="sub">
+       Organized by Bob Nickas<br />
+Thursday May 17, 4 – 7 pm </a></a></span>&nbsp;&nbsp;&nbsp;<a href="#press_release" class="press">press release</a></div>
+        <!-- TemplateBeginIf cond="_document['Optional Image Dispaly ']" --><!-- TemplateBeginEditable name="Image Display" -->
+        <div class="exhibition">
+          <div class="image_display">
+            <div class="image"><img src="../images/exhibitions/miami/large/1.jpg" width="700" height="412" /></div>
+            <div class="image_info">
+              <div class="image_nav">
+                <div class="image_nav_arrow_left"><a href="#">&lt;</a></div>
+                <div class="image_nav_page_number">1 of 9</div>
+                <div class="image_nav_arrow_right"><a href="#">&gt;</a></div>
+              </div>
+              <div class="image_discription"></div>
+            </div>
+          </div>
+        </div>
+        <!-- TemplateEndEditable --><!-- TemplateEndIf -->
+        <div class="exhibition_thumbs">
+          <div class="exhibition_thumb"><a href="../exhibitions/miami/1.html"><img src="../images/exhibitions/miami/thumbs/1.jpg" width="200" height="200" class="no_border" /></a></div>
+        </div>
+        <div class="exhibition_press_release"><a name="press_release" id="press_release"></a>PRESS RELEASE: <a href="../images/exhibitions/miami/PR Ryan Foerster Miami 2.pdf" target="_blank" class="press">CLICK HERE FOR PDF VERSION</a><br />
+          <br />
+          Shoot The Lobster - Miami<br />
+70 NW 20 Street<br />
+Miami, FL 33127 <br />
+<a href="mailto:contact@shootthelobster.com">contact@shootthelobster.com </a><br />
+212-560-0670 <br />
+<a href="http://www.martosgallery.com/" target="_blank">www.shootthelobster.com</a><br />
+<br />
+          <strong>Ryan Foerster
+          <br />
+          Organized by Bob Nickas</strong>
+          <br />
+          May 17, 2012 4 - 7 pm
+          <br />
+          <br />
+          Shoot The Lobster is pleased to announce our inaugural exhibition at Shoot The Lobster – Miami.<br />
+Ryan Foerster in Miami<br />
+at the invitation of Shoot the Lobster <br />
+organized by Bob Nickas<br />
+<br />
+the artist:<br />
+b. 1983, Newmarket, Canada.<br />
+lives and works in New York.<br />
+a photographer who also makes short films, self-published 'zines and catalogs, and has lately incorporated found objects in his installations with photos and printing plates.<br /><br />
+the project:<br />
+to create an on-site installation for a vacant lot in Miami.<br /><br />
+the curator:<br />
+will try not to get in the way of the artist, or take credit for any of the artist's ideas and hard work. when asked what he was planning to do in Miami, <br />
+<br /> 
+Foerster wrote:<br />
+"hmmm, i just got to studio to go through some work for it. its going to be a mix of printing plates, probably ones from the garden, some found metal that look like printing plates. some photos ... probably compost ones and b&w of the garden here. i have a few photos on the roof that i mounted on some found metal I'm hoping work out. i think the plates will look good because you can see both sides if i wedge them in between things or have them up against the fence or in the tree. probably some photograms that are those designs on the window bars. i think if i walk around there i should be able to find some good stuff for it ... maybe some wood to put photos on. i'll probably bring a few things from other walks I've gone on in other places that could look like they were already there. maybe some of the 'slag' rocks i have. i'll just bring more then enough and edit. some of the work i guess will be getting made during the course of the show or changing, which is exciting. was just looking at the google map of it. i like those pavement patches that are there also. I'm off to see that bill bollinger show. i went to the one last night really cool casts of the ground.”<br />
+<br />
+Foerster has exhibited at:<br />
+Martos Gallery in New York (2012), a two-person show with Ben Schumacher; Art Metropole, Toronto (2011); a group show at Triple V, Paris, France (2011); ribordy contemporary, Geneva, Switzerland (2010); Printed Matter Inc., New York (2009); the Swiss Institute, New York (2008); Allmanna Galleriet, Stockholm, Sweden (2008); White Columns, New York (2007); Alphaville, Melbourne, Australia (2006).<br />
+<br />
+A book of Foerster's photographs and printing plates is forthcoming from Hassla, with an introductory text by Bob Nickas.<br />
+<br />
+<br />
+    <p>Shoot The Lobster Headquarters:<br />
+      540 West 29th Street New York, NY 10001<br />
+      For further information please contact<br /> 
+      <a href="mailto:contact@shootthelobster.com">contact@shootthelobster.com</a> or 212-560-0670<br />
+    </p>
+<br />
+<br />
+
+        </div>
+    </div>
+    <!-- InstanceEndEditable --></div>
+</div>
+<div class="side_bar"><a href="http://www.martosgallery.com/" target="_blank"><img src="../images/side_bar/martos_gallery.png" width="100" height="768" class="no_border" /></a></div>
+</body>
+<!-- InstanceEnd --></html>

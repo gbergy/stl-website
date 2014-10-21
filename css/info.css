@@ -1,0 +1,55 @@
+@charset "UTF-8";
+.info_content {
+	float: left;
+	height: auto;
+	width: 800px;
+	padding-left: 50px;
+	padding-top: 167px;
+	padding-bottom: 50px;
+}
+.info_contact_text {
+	width: 200px;
+	float: left;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	color: #666666;
+	height: 400px;
+	font-weight: normal;
+}
+.info_map {
+	width: 600px;
+	float: left;
+}
+.mailing_list {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	line-height: 16px;
+	font-weight: normal;
+}
+.facebook_twitter {
+	height: 50px;
+	width: 200px;
+}
+.follow_us {
+	height: 20px;
+	width: 195px;
+	padding-top: 10px;
+	float: left;
+	padding-left: 5px;
+}
+.social_media_icons {
+	float: left;
+	height: 50px;
+	width: 100px;
+}
+.subsribe {
+	float: left;
+	height: auto;
+	width: 200px;
+}
+	#mc_embed_signup{
+	clear:left;
+	width:200px;
+}

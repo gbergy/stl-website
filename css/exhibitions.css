@@ -1,0 +1,49 @@
+@charset "UTF-8";
+.exhibitions_display {
+	height: auto;
+	width: auto;
+	float: left;
+}
+.exhibitions_container {
+	height: auto;
+	width: 900px;
+	padding-left: 50px;
+	padding-top: 167px;
+	float: left;
+	padding-bottom: 25px;
+}
+.exhibition {
+	height: auto;
+	width: 900px;
+	float: left;
+}
+.exhibition_title {
+	width: 900px;
+	height: auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.exhibition_thumb {
+	float: left;
+	height: 200px;
+	width: 200px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	border: 0px;
+}
+
+.exhibition_thumbs {
+	height: auto;
+	width: 675px;
+	float: left;
+	padding-bottom: 25px;
+	padding-left: 25px;
+}
+.exhibition_press_release {
+	height: auto;
+	width: 850px;
+	float: left;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+}

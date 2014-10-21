@@ -1,0 +1,108 @@
+.collaboration {
+	height: auto;
+	width: 900px;
+	float: left;
+}
+.collaboration_thumb {
+	float: left;
+	height: 200px;
+	width: 200px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	border: 0px;
+}
+.collaboration_title {
+	height: auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	width: auto;
+}
+.collaboration_thumbs {
+	height: auto;
+	width: 675px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+}
+.collaborations_container {
+	height: auto;
+	width: 950px;
+	padding-left: 50px;
+	padding-top: 167px;
+	float: left;
+	padding-bottom: 25px;
+}
+.collaborations_display {
+	width: 700px;
+	height: auto;
+	float: left;
+	position: inherit;
+}
+.collaboration_display {
+	height: auto;
+	width: 900px;
+	padding-left: 50px;
+	padding-top: 127px;
+	float: left;
+	padding-bottom: 25px;
+}
+.collaboration_exhibitions {
+	height: auto;
+	width: 700px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	float: left;
+}
+.collaboration_thumbs {
+	height: auto;
+	width: 675px;
+	float: left;
+	padding-bottom: 25px;
+	padding-left: 25px;
+}
+.exhibitions_list_container {
+	width: 675px;
+	height: 125px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+}
+.exhibitions_list_container_200 {
+	width: 675px;
+	height: 200px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+}
+
+.exhibitions_list {
+	height: auto;
+	width: 900px;
+	padding-left: 50px;
+	padding-top: 127px;
+}
+
+.exhibitions_list_thumb {
+	float: left;
+	height: 125px;
+	width: auto;
+	border: 0px;
+}
+
+.exhibitions_list_status {
+	height: auto;
+	width: 675px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+}
+.exhibitions_list_status_text {
+	font-size: 16px;
+	color: #000000;
+	line-height: 26px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.exhibitions_list_text {
+	height: 125px;
+	width: 450px;
+	float: left;
+	padding-left: 25px;
+}

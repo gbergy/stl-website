@@ -1,0 +1,27 @@
+@charset "UTF-8";
+.news_content {
+	float: left;
+	height: auto;
+	width: 600px;
+	padding-left: 50px;
+	padding-top: 167px;
+}
+.news {
+	height: auto;
+}
+.news_image {
+	float: left;
+}
+.news_text {
+	float: left;
+	padding-bottom: 25px;
+	font-size: 14px;
+	font-family: Helvetica, Arial, sans-serif;
+	height: auto;
+}
+h1 {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 18px;
+}
